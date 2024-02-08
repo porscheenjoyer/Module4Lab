@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5941684-2348-4c45-a4d9-67907d1fa910" name="Changes" comment="135">
-      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e5941684-2348-4c45-a4d9-67907d1fa910" name="Changes" comment="142">
+      <change afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.Task4">
     <configuration name="PartI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PartI" />
       <module name="Module4Lab" />
@@ -64,8 +63,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4" />
+      <module name="Module4Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
@@ -103,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707417324357</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="142">
+      <created>1707417740072</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707417740072</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +135,7 @@
     <MESSAGE value="151" />
     <MESSAGE value="204" />
     <MESSAGE value="135" />
-    <option name="LAST_COMMIT_MESSAGE" value="135" />
+    <MESSAGE value="142" />
+    <option name="LAST_COMMIT_MESSAGE" value="142" />
   </component>
 </project>
